@@ -1,10 +1,9 @@
 {
-      'firmware': [
-        {
-          "version": "2.0.0",
-          "md5sum": "2f4d828e980e48a80fbe39f1685c620d",
-          "url":
-              "https://github.com/TomTom-Labs/test-firmware/raw/refs/heads/main/Onasport_dev10.sfb"
-        },
-      ]
+  "firmware": [
+    {
+      "version": "2.0.0",
+      "md5sum": "2f4d828e980e48a80fbe39f1685c620d",
+      "url": "https://github.com/TomTom-Labs/test-firmware/raw/refs/heads/main/Onasport_dev10.sfb"
     }
+  ]
+}
