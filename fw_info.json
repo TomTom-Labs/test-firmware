@@ -4,6 +4,18 @@
       "version": "2.0.0",
       "md5sum": "2f4d828e980e48a80fbe39f1685c620d",
       "url": "https://github.com/TomTom-Labs/test-firmware/raw/refs/heads/main/Onasport_dev10.sfb"
+    },
+    {
+      "version": "2.1.0",
+      "md5sum": "7612a86c661121e8e06458032953a16e",
+      "url": "https://github.com/TomTom-Labs/test-firmware/raw/refs/heads/main/Onasport_v2.0.0-dev24.sfb",
+      "upgrade": ["2.0.0-dev24x", "2.0.0-dev24y", "2.0.0-dev24z"]
+    },
+    {
+      "version": "2.1.0",
+      "md5sum": "01ad0fc32cde940dcbcff40451c7c66d",
+      "url": "https://github.com/TomTom-Labs/test-firmware/raw/refs/heads/main/Onasport_v2.0.0-dev24x.sfb",
+      "upgrade": ["2.0.0-dev24"]
     }
   ]
 }
